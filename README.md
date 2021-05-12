@@ -21,9 +21,10 @@
 
 课程python语法入门和网络爬虫部分可免费试听，对python感兴趣的童鞋可以收藏观看~
 
-![](课程二维码.png)
 
-课程链接 https://ke.qq.com/course/482241 试听
+
+课程试听,请点击下方
+[![](img/课程.png)](https://ke.qq.com/course/482241?tuin=163164df)
 
 
 <br>
