@@ -152,7 +152,7 @@
 
 购买链接 https://ke.qq.com/course/482241 
 
-![](课程二维码.png)
+[![](img/课程.png)](https://ke.qq.com/course/482241?tuin=163164df)
 
 支付成功后，可下载腾讯课堂app或网页端打开腾讯课堂官网，使用微信扫码登录后即可学习
 
